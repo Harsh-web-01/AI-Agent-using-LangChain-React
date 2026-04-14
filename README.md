@@ -12,10 +12,8 @@ This repository contains a simple, yet powerful end-to-end AI Agent built using 
 ## 🛠 Prerequisites
 
 Before running the agent, make sure you have the following API keys:
-1. **OpenAI API Key**: Required for the `ChatOpenAI` LLM. Get it from [OpenAI platform](https://platform.openai.com/).
-2. **Weatherstack API Key**: Required for the custom weather tool. You can sign up for a free tier key at [Weatherstack](https://weatherstack.com/).
-
-*Note: In the provided code, the Weatherstack API key is hardcoded. It's recommended to securely store this in your environment variables.*
+1. **OpenAI API Key**: Required for the `ChatOpenAI` LLM.
+2. **Weatherstack API Key**: Required for the custom weather tool.
 
 ### Example Prompt
 
