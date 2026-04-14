@@ -1,6 +1,6 @@
 # LangChain ReAct Agent: Web Search & Weather Assistant
 
-This repository contains a simple, yet powerful end-to-end AI Agent built using the [LangChain](https://python.langchain.com/) framework. Inspired by the [CampusX Generative AI tutorial series](https://youtu.be/gm_lQG8fYjI?si=56jjn3SU-WE4V4gj), this project demonstrates how to implement a **ReAct (Reasoning and Acting)** agent capable of querying the web and fetching live weather data to answer complex user prompts.
+This repository contains a simple, yet powerful end-to-end AI Agent built using the LangChain. This project demonstrates how to implement a **ReAct (Reasoning and Acting)** agent capable of querying the web and fetching live weather data to answer complex user prompts.
 
 ## 🚀 Features
 
